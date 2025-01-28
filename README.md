@@ -180,10 +180,10 @@ Please adhere to the following file naming convention for all your submitted fil
 Replace `FirstName` and `LastName` with your actual first and last name.
 
 # Results
-![Customer distribution region](result2.png)
-![product price distribution](./eCommerce_Project/Result2.png)
-![transcation frqeuncy per customer](./eCommerce_Project/Result3.png)
-![customer cluster visualization](./eCommerce_Project/Result4.png)
+![Customer distribution region](Result1.png)
+![product price distribution](result2.png)
+![transcation frqeuncy per customer](Result3.png)
+![customer cluster visualization](result4.png)
 ## GitHub Repository
 
 Upload all your code files, reports, and the README.md to a **public** GitHub repository. Provide the GitHub repository link for submission.
