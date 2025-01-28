@@ -180,7 +180,7 @@ Please adhere to the following file naming convention for all your submitted fil
 Replace `FirstName` and `LastName` with your actual first and last name.
 
 # Results
-![Customer distribution region](./eCommerce_Project/Result1.png)
+![Customer distribution region](result2.png)
 ![product price distribution](./eCommerce_Project/Result2.png)
 ![transcation frqeuncy per customer](./eCommerce_Project/Result3.png)
 ![customer cluster visualization](./eCommerce_Project/Result4.png)
